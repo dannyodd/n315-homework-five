@@ -1,0 +1,32 @@
+.gameItem {
+    width: 170px;
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    font-family: 'Lato';
+    box-shadow: 2px 2px 5px lightgray;
+    h4 {
+        font-size: 15px;
+        border-bottom: 1px solid black;
+        margin-bottom: 8px;
+    }
+}
+
+.gameImg {
+    width: 150px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.briefRating {
+    font-size: 12px;
+}
+.briefDsc {
+    margin-bottom: 15px;
+}
+.rating {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 5px;
+}
